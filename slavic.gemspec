@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Slavic::VERSION
   spec.authors       = ["Malo Skrylevo"]
   spec.email         = ["majioa@yandex.ru"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Slavic gem contains methods for slavic text processing, and other slavic helpful things}
+  spec.summary       = %q{Slavic gem contains methods for slavic text processing, etc}
   spec.homepage      = ""
   spec.license       = "MIT"
 
