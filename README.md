@@ -1,6 +1,11 @@
 # Slavic
 
-TODO: Write a gem description
+Slavic gem contains methods for slavic text processing, and other slavic helpful things.
+
+[![Dependency Status](https://gemnasium.com/znamenica/slavic.png)](https://gemnasium.com/znamenica/slavic)
+[![Gem Version](https://badge.fury.io/rb/slavic.png)](http://rubygems.org/gems/slavic)
+[![Build Status](https://travis-ci.org/znamenica/slavic.png?branch=master)](https://travis-ci.org/znamenica/slavic)
+[![Coverage Status](https://coveralls.io/repos/znamenica/slavic/badge.png)](https://coveralls.io/r/znamenica/slavic)
 
 ## Installation
 
@@ -18,7 +23,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To use slovo module of the gem add the following lines:
+
+    gem 'slavic'
+    Slavic.slovo
 
 ## Contributing
 
