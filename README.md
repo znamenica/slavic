@@ -25,7 +25,7 @@ Or install it yourself as:
 
 To use slovo module of the gem add the following lines:
 
-    gem 'slavic'
+    require 'slavic'
     Slavic.slovo
 
 ## Contributing
