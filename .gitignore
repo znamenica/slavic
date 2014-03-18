@@ -18,3 +18,5 @@ tmp
 *.html
 *.swp
 *~
+.ruby-version
+.ruby-gemset
